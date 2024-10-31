@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="link-do-seu-favicon.ico"> <!-- Altere o link do favicon -->
+    <title>Currículo - PABLO DE SOUZA DIAS</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+        }
+        h1 {
+            color: #333;
+        }
+        h2 {
+            color: #555;
+        }
+        hr {
+            margin: 20px 0;
+            border: 1px solid #ccc;
+        }
+        ol {
+            margin: 10px 0;
+        }
+    </style>
+</head>
+<body>
+    <h1>PABLO DE SOUZA DIAS</h1>
+    <h2>Currículo Profissional</h2>
+    <hr>
+    
+    <p><strong>Objetivo:</strong> Contribuir para o crescimento da empresa com minhas habilidades e experiências.</p>
+    
+    <p>Sou um profissional dedicado com ampla experiência. Ao longo da minha carreira, desenvolvi habilidades em diversas áreas, tendo atuado em muitas funções e projetos que me proporcionaram um crescimento significativo.</p>
+
+    <p><strong>Experiências Profissionais:</strong></p>
+    <ol>
+        <li>Expresso limp - Auxiliar de serviços gerais</li>
+        <li>Gelo santa cruz - Entregador,caixa,empacotador</li>
+        <li>Supermercados torre - Estoquista</li>
+        <li>Vendedor (autônomo )</li>
+        <li>Greencar - Vendedor de automóveis</li>
+    </ol>
+    
+    <p><strong>Formação Acadêmica:</strong><br>
+       Ensino médio - completo
+       Cursos:
+        Informática básica
+        Inteligência emocional
+
+    </p>
+
+</body>
+</html>
